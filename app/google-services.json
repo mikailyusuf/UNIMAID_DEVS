@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487599560698",
+    "firebase_url": "https://unimaid-devs.firebaseio.com",
+    "project_id": "unimaid-devs",
+    "storage_bucket": "unimaid-devs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487599560698:android:ffca59b015440bcbbc3643",
+        "android_client_info": {
+          "package_name": "com.unimaiddevs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487599560698-i0r0e47t9uk2cnu2sb7h3hhbnvrk0aeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unimaiddevs",
+            "certificate_hash": "c45415330ce19a26be19403a8191acc06392714a"
+          }
+        },
+        {
+          "client_id": "487599560698-gmb41j4vd4dsahk7ne2052c79655ev6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6HjYPQNTFUZLL_70PqLYb2PAta7vFRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487599560698-gmb41j4vd4dsahk7ne2052c79655ev6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
